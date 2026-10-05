@@ -1,0 +1,5 @@
+Nombre = input("Introduce tu nombre: ")
+Apellido = input("Introduce tu apellido: ")
+Email = input("Introduce tu email: ")
+Ciudad = input("Introduce tu ciudad: ")
+print(f"Hola {Nombre} {Apellido}, tu email es {Email} y vives en {Ciudad}.")
